@@ -1,1 +1,1 @@
-echo: this prints some statement
+echo: It prints out statements
